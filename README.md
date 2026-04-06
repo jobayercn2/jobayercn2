@@ -4,28 +4,28 @@ Md Jobayer<br>
 MSc in Cognitive Neuroscience & Clinical Neuropsychology<br>
 University of Padua, Italy<br>
 
-Research Focus<br>
+Research Focus:<br>
 
 EEG signal processing and ERP analysis<br>
 Cognitive control and behavioral experiments<br>
 fMRI analysis (GLM and preprocessing pipelines)<br>
 Reproducible neuroscience workflows<br>
 
-Technical Skills<br>
+Technical Skills:<br>
 
 Python (MNE, NumPy, pandas)<br>
 MATLAB<br>
 R (mixed-effects models)<br>
 OpenSesame<br>
 
-Featured Projects<br>
+Featured Projects:<br>
 
 Numerical Stroop Task<br>
 Behavioral experiment design and analysis investigating cognitive interference.<br>🔗 https://github.com/jobayercn2/numerical-stroop-task<br>
 
 (EEG and fMRI projects coming soon)<br>
 
-Current Focus<br>
+Current Focus:<br>
 
 Developing reproducible pipelines for EEG and fMRI data analysis, with an emphasis on bridging neuroscience and data science.
 
