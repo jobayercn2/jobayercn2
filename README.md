@@ -1,33 +1,27 @@
 
-# 💫 About Me:
-Md Jobayer<br>
-MSc in Cognitive Neuroscience & Clinical Neuropsychology<br>
-University of Padua, Italy<br>
+## 💫 About Me
 
-Research Focus:<br>
+MSc in Cognitive Neuroscience & Clinical Neuropsychology  
+University of Padua, Italy  
 
-EEG signal processing and ERP analysis<br>
-Cognitive control and behavioral experiments<br>
-fMRI analysis (GLM and preprocessing pipelines)<br>
-Reproducible neuroscience workflows<br>
+I work on EEG/ERP and fMRI data analysis with a focus on cognitive control, behavioral experiments, and reproducible neuroscience workflows.
 
-Technical Skills:<br>
+## 🧠 Research Focus
+- EEG/ERP signal processing  
+- Cognitive control & behavioral experiments  
+- fMRI (GLM & preprocessing pipelines)  
+- Reproducible neuroscience pipelines  
 
-Python (MNE, NumPy, pandas)<br>
-MATLAB<br>
-R (mixed-effects models)<br>
-OpenSesame<br>
+## ⚙️ Tools
+Python (MNE, NumPy, pandas) · MATLAB · R (mixed-effects models) · OpenSesame  
 
-Featured Projects:<br>
+## 🔬 Featured Project
+**Numerical Stroop Task**  
+Behavioral experiment on cognitive interference.  
+🔗 https://github.com/jobayercn2/numerical-stroop-task  
 
-Numerical Stroop Task<br>
-Behavioral experiment design and analysis investigating cognitive interference.<br>🔗 https://github.com/jobayercn2/numerical-stroop-task<br>
-
-(EEG and fMRI projects coming soon)<br>
-
-Current Focus:<br>
-
-Developing reproducible pipelines for EEG and fMRI data analysis, with an emphasis on bridging neuroscience and data science.
+## 🚧 Current Work
+Building reproducible EEG and fMRI analysis pipelines bridging neuroscience and data science.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jobayercn2 ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j3rryworld) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jobayercn2 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jobayer.psy2017@gmail.com) 
