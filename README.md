@@ -1,46 +1,89 @@
 
-## 💫 About Me
+# 💫 About Me
 
-MSc in Cognitive Neuroscience & Clinical Neuropsychology  
-University of Padua, Italy  
+MSc in **Cognitive Neuroscience & Clinical Neuropsychology**
+University of Padua, Italy
 
-I work on EEG/ERP and fMRI data analysis with a focus on cognitive control, behavioral experiments, and reproducible neuroscience workflows.
+I work at the intersection of **neuroscience, signal processing, and data science**, with a focus on building reproducible pipelines for EEG/ERP and behavioral data analysis.
+
+My primary interest is in transforming raw neurophysiological data into interpretable features using computational methods, with applications in cognitive control, perception, and brain dynamics.
+
+---
 
 ## 🧠 Research Focus
-- EEG/ERP signal processing  
-- Cognitive control & behavioral experiments  
-- fMRI (GLM & preprocessing pipelines)  
-- Reproducible neuroscience pipelines  
 
-## ⚙️ Tools
-Python (MNE, NumPy, pandas) · MATLAB · R (mixed-effects models) · OpenSesame  
+* EEG/ERP preprocessing and spectral analysis
+* Resting-state and task-based EEG modeling
+* Cognitive control and behavioral paradigms
+* fMRI preprocessing and GLM-based analysis
+* Statistical modeling (including mixed-effects models)
+* Reproducible computational neuroscience workflows
 
-## 🔬 Featured Project
-**Numerical Stroop Task**  
-Behavioral experiment on cognitive interference.  
-🔗 https://github.com/jobayercn2/numerical-stroop-task  
+---
 
-## 🚧 Current Work
-Building reproducible EEG and fMRI analysis pipelines bridging neuroscience and data science.
+## ⚙️ Technical Stack
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Jobayercn2 ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j3rryworld) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jobayercn2 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jobayer.psy2017@gmail.com) 
+**Core:** Python · MATLAB · Rstudio · Git/GitHub
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Python Ecosystem:**
+MNE-Python · NumPy · pandas · SciPy · scikit-learn · matplotlib · seaborn
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**jobayercn2/jobayercn2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Neuro / Experimental Tools:**
+OpenSesame · EEGLAB · Brainstorm · Mricron · EEG/ERP signal analysis workflows
 
-Here are some ideas to get you started:
+**Modeling & ML:**
+scikit-learn · regression models · classification pipelines · exploratory ML for neural data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Featured Projects
+
+### 🧠 EEG Rest–Task Analysis Pipeline
+
+Reproducible EEG workflow for resting-state and RDK task data, including preprocessing, spectral feature extraction, aperiodic parameterization, and exploratory machine learning.
+
+🔗 https://github.com/jobayercn2/mne-eeg-rest-task-pipeline
+
+---
+
+### 🎯 Numerical Stroop Task
+
+Behavioral experiment investigating cognitive interference using reaction time analysis with MATLAB and Python.
+
+🔗 https://github.com/jobayercn2/numerical-stroop-task
+
+---
+
+## 🚧 Current Direction
+
+Building end-to-end **computational neuroscience pipelines** that integrate EEG/ERP, behavioral data, and machine learning methods for cognitive neuroscience research.
+
+Focus:
+→ scalable EEG analysis workflows
+→ reproducible research design
+→ feature-based brain signal modeling
+
+---
+
+## 🌐 Contact & Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/Jobayercn2)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:Jobayer.psy2017@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/j3rryworld)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/Jobayercn2)
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![MATLAB](https://img.shields.io/badge/MATLAB-Data%20Analysis-orange)
+![R](https://img.shields.io/badge/R-Statistics-blue)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+
+![MNE-Python](https://img.shields.io/badge/MNE--Python-EEG%20Analysis-green)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue)
+![pandas](https://img.shields.io/badge/pandas-Data%20Handling-darkblue)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-ML-orange)
+
+---
