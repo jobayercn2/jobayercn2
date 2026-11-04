@@ -61,14 +61,6 @@ Behavioral experiment investigating cognitive interference using reaction time a
 
 ---
 
-🔬 Research Approach
-
-Developing reproducible computational workflows for analyzing neurophysiological and behavioral data, with an emphasis on signal processing, statistical modeling, and interpretable results.
-
-Methods: EEG/ERP analysis · Behavioral data analysis · Task-fMRI GLM · Statistical modeling · Exploratory machine learning
-
----
-
 ## 🌐 Contact & Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/Jobayercn2)
