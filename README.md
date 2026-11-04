@@ -33,7 +33,7 @@ MNE-Python · NumPy · pandas · SciPy · scikit-learn · matplotlib · seaborn 
 OpenSesame · EEGLAB · Brainstorm · Mricron · PsychoPy 
 
 **Modeling & ML:**
-Regression models · classification pipelines · exploratory ML for neural data
+Statistical modeling · Exploratory machine learning for neural data
 
 ---
 
