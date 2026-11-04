@@ -4,32 +4,33 @@
 MSc in **Cognitive Neuroscience & Clinical Neuropsychology**
 University of Padua, Italy
 
-I work at the intersection of **neuroscience, signal processing, and data science**, with a focus on building reproducible pipelines for EEG/ERP and behavioral data analysis.
+My background is in cognitive neuroscience, with research experience in EEG, ERP, behavioral experiments, and computational analysis. I have worked with EEG preprocessing, spectral and aperiodic analysis, experimental paradigms, and statistical modeling.
 
-My primary interest is in transforming raw neurophysiological data into interpretable features using computational methods, with applications in cognitive control, perception, and brain dynamics.
+I am interested in understanding how the brain processes sensory information, allocates attention, and generates perceptual and cognitive responses. I use Python, MATLAB, and R for data analysis and reproducible research workflows.
 
 ---
 
 ## 🧠 Research Focus
 
-* EEG/ERP preprocessing and spectral analysis
-* Resting-state and task-based EEG modeling
-* Cognitive control and behavioral paradigms
-* fMRI preprocessing and GLM-based analysis
-* Statistical modeling (including mixed-effects models)
-* Reproducible computational neuroscience workflows
-
----
+- Predictive processing and perception
+- Visual perception and visual attention
+- Attention and cognitive control
+- Neural mechanisms underlying perceptual decision-making
+- EEG/ERP markers of cognitive processes
+- Computational approaches to understanding brain dynamics
+- Neurodegeneration and dementia
+- Cognitive and neural changes in ageing
+- Psychiatric disorders, particularly psychosis and schizophrenia-spectrum conditions
 
 ## ⚙️ Technical Stack
 
 **Core:** Python · MATLAB · Rstudio · Git/GitHub
 
 **Python Ecosystem:**
-MNE-Python · NumPy · pandas · SciPy · scikit-learn · matplotlib · seaborn
+MNE-Python · NumPy · pandas · SciPy · scikit-learn · matplotlib · seaborn · Nilearn
 
 **Neuro / Experimental Tools:**
-OpenSesame · EEGLAB · Brainstorm · Mricron · EEG/ERP signal analysis workflows
+OpenSesame · EEGLAB · Brainstorm · Mricron · PsychoPy 
 
 **Modeling & ML:**
 scikit-learn · regression models · classification pipelines · exploratory ML for neural data
@@ -45,7 +46,13 @@ Reproducible EEG workflow for resting-state and RDK task data, including preproc
 🔗 https://github.com/jobayercn2/mne-eeg-rest-task-pipeline
 
 ---
+### 🧲 Task-fMRI Face Processing GLM
 
+Reproducible task-fMRI workflow using preprocessed OpenNeuro data, including BOLD image inspection, experimental event modeling, motion QC, first-level GLM estimation, contrast analysis, and voxelwise FDR correction using Python and Nilearn.
+
+🔗 https://github.com/jobayercn2/fmri-face-processing-glm
+
+---
 ### 🎯 Numerical Stroop Task
 
 Behavioral experiment investigating cognitive interference using reaction time analysis with MATLAB and Python.
@@ -54,14 +61,11 @@ Behavioral experiment investigating cognitive interference using reaction time a
 
 ---
 
-## 🚧 Current Direction
+🔬 Research Approach
 
-Building end-to-end **computational neuroscience pipelines** that integrate EEG/ERP, behavioral data, and machine learning methods for cognitive neuroscience research.
+Developing reproducible computational workflows for analyzing neurophysiological and behavioral data, with an emphasis on signal processing, statistical modeling, and interpretable results.
 
-Focus:
-→ scalable EEG analysis workflows
-→ reproducible research design
-→ feature-based brain signal modeling
+Methods: EEG/ERP analysis · Behavioral data analysis · Task-fMRI GLM · Statistical modeling · Exploratory machine learning
 
 ---
 
@@ -71,19 +75,5 @@ Focus:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:Jobayer.psy2017@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/j3rryworld)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/Jobayercn2)
-
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![MATLAB](https://img.shields.io/badge/MATLAB-Data%20Analysis-orange)
-![R](https://img.shields.io/badge/R-Statistics-blue)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red)
-
-![MNE-Python](https://img.shields.io/badge/MNE--Python-EEG%20Analysis-green)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-lightblue)
-![pandas](https://img.shields.io/badge/pandas-Data%20Handling-darkblue)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 
 ---
